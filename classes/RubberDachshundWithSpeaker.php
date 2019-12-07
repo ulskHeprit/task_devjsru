@@ -10,6 +10,6 @@ class RubberDachshundWithSpeaker extends Dog
 
     public function hunting()
     {
-        return "It's a toy.";
+
     }
 }
